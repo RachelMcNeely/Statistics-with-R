@@ -1,5 +1,5 @@
 library(readr)
-BodyFatLM <- read_csv("~/Math 440/BodyFatLM.csv")
+BodyFatLM <- read_csv("BodyFatLM.csv")
 View(BodyFatLM)
 
 bodyFat.lm<-lm(bodyfat~neck+chest+abdomen+hip+thigh+knee+ankle+biceps+forearm+wrist,data=BodyFatLM)
