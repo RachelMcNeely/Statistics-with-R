@@ -1,2 +1,2 @@
-# Statistics-with-R
-This is a repo that contains a combination of homework assignments and personal exploration of R functionalities!
+# Coding With R
+Contains a combination of homework assignments and personal exploration of R functionalities.
